@@ -18,7 +18,12 @@ public class Taller {
         
         int var;
         int tor ;
-                
+                //asdjkhsdjhgfsdadjhasdfjklfhdsajklsdfhajklsdfha
+ //jksdfajhsdfjhdfs
+                    
+                    
+                    
+                }
         // TODO code application logic here
     }
     
