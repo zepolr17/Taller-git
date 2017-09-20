@@ -17,7 +17,8 @@ public class Taller {
     public static void main(String[] args) {
         
         int var;
-        int tor ;
+        int tor;
+        
                 
         // TODO code application logic here
     }
